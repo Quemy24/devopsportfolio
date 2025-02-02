@@ -79,5 +79,5 @@ kubectl port-forward svc/grafana 3000:80
 - Extend the pipeline to include automated testing.
 
 ## GitHub Repository
-🔗 [GitHub Repo](https://github.com/yourusername/devops-portfolio) 
+🔗 [GitHub Repo](https://github.com/Quemy24/devops-portfolio) 
 
